@@ -1,0 +1,11 @@
+{
+  "message_id": "20260517_111455_chatgpt_human",
+  "created_at_bkk": "2026-05-17T11:14:55+07:00",
+  "from": "human-chatgpt connector",
+  "to": "tham",
+  "intent": "Human message via /oasync",
+  "body": "test message 2 — with write permissions fix",
+  "risk_gate": {
+    "foreground_allowed": false
+  }
+}
